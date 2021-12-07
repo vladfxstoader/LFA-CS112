@@ -1,0 +1,35 @@
+Variables:
+	S
+	P
+	Q
+	T
+	U
+	R
+End
+
+Sigma:
+	a
+	b
+	e
+End
+
+Rules:
+	S, P
+	S, Q
+	P, aPb
+	P, T
+	P, U
+	Q, RbaR
+	T, aT
+	T, a
+	U, Ub
+	U, a
+	R, RR
+	R, a
+	R, b
+	R, e
+End
+
+Start variable:
+	S
+End

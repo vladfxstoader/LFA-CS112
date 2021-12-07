@@ -1,0 +1,33 @@
+//
+//   Comment 0
+//
+Variables:
+    A
+    B
+End
+//
+//   Comment 1
+//
+Sigma:
+	0
+	1
+	#
+End
+//
+//   Comment 2
+//
+Rules:
+    A, 0A1
+    A, B
+    B, #
+    B, e
+End
+//
+//   Comment 3
+//
+Start variable:
+    A
+End
+//
+//   Comment 4
+//

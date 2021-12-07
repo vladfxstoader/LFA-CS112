@@ -1,0 +1,21 @@
+Variables:
+	S
+End
+
+Sigma:
+	0
+	1
+	e
+End
+
+Rules:
+	S, 0
+	S, 1
+	S, 0S0
+	S, 1S1
+	S, e
+End
+
+Start variable:
+	S
+End

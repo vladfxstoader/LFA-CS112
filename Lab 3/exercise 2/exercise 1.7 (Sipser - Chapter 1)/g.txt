@@ -1,0 +1,17 @@
+#
+#
+#
+Sigma:
+	0
+	1
+End
+#
+# 
+#
+States:
+	q0,s,f
+End
+Transitions:
+End
+
+	

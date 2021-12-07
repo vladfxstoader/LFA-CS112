@@ -1,0 +1,27 @@
+Variables:
+	S 
+	T
+	U
+End
+
+Sigma:
+	0
+	1
+	#
+	e
+End
+
+Rules:
+	T, SU
+	S, 0S0
+	S, 1S1
+	S, #U
+	U, UU
+	U, 1
+	U, 0
+	U, e
+End
+
+Start variable:
+	T
+End

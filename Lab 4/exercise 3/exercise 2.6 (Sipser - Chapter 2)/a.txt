@@ -1,0 +1,23 @@
+Variables:
+	S 
+	T
+End
+
+Sigma:
+	a
+	b
+	e
+End
+
+Rules:
+	S, TaT
+	T, TT
+	T, aTb
+	T, bTa
+	T, a
+	T, e
+End
+
+Start variable:
+	S
+End
