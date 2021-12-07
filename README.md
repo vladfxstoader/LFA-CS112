@@ -1,2 +1,2 @@
 # LFA-CS112
-Lab homework (NFAs, DFAs, Turing machines)
+Lab homework (NFAs, DFAs, Turing machines).
