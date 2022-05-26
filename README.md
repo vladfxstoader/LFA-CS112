@@ -1,2 +1,3 @@
-# LFA-CS112
-Lab homework (NFAs, DFAs, Turing machines).
+# LFA - CS112 homeworks
+
+Lab homework for the LFA/CS112 course (Python implementations of NFAs, DFAs, Turing machines).
